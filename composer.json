@@ -1,0 +1,13 @@
+{
+  "name": "omar/utpb-quiz",
+  "description": "A simple wp plugin to generate a QUIZ result.",
+  "type": "project",
+  "license": "GPL",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}
